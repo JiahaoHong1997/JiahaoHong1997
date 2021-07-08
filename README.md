@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ![JiahaoHong1997's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiahaoHong1997&theme=solarized-dark&show_icons=true&show_owner=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiahaoHong1997)](https://github.com/JiahaoHong1997/TELGVOS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiahaoHong1997&repo=TELGVOS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiahaoHong1997&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
