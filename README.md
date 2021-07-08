@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![JiahaoHong1997's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiahaoHong1997&theme=solarized-dark&show_icons=true&show_owner=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiahaoHong1997)](https://github.com/JiahaoHong1997/TELGVOS)
+
+
+
+
