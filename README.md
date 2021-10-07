@@ -5,19 +5,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on computer vision.
+- 🌱 I’m currently learning web programming.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I‘m a graduate student at Fudan University.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: mail:hongjiahao1997@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Games
 -->
 
 ![JiahaoHong1997's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiahaoHong1997&theme=solarized-dark&show_icons=true&show_owner=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiahaoHong1997&repo=TELGVOS)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiahaoHong1997&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiahaoHong1997&repo=TELGVOS,distributed-fileServer)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiahaoHong1997&hide=html,css,EJS,JavaScript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
