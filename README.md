@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JiahaoHong1997&repo=distributed-fileServer)](https://github.com/anuraghazra/github-- -- readme-stats)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiahaoHong1997&hide=html,css,EJS,Stylus&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiahaoHong1997&hide=html,javascript,css,EJS,Stylus&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
