@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 👯 I’m a gopher.
 
-⚡ Fun fact: Games
-
+<!-- ⚡ Fun fact: Games
+-->
 
 📫 How to reach me: mail:hongjiahao1997@gmail.com
 
