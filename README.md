@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - 
 -->
 
-🤔 I‘m a graduate student at Fudan University.
+🤔 A graduate student at Fudan University.
 
-🔭 I’m currently working on computer vision.
+🔭 Working on computer vision.
 
-🌱 I’m currently learning web programming.
+🌱 Learning web programming.
 
-👯 I’m a gopher.
+👯 A gopher.
 
 <!-- ⚡ Fun fact: Games
 -->
