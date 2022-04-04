@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 🌱 Learning web programming.
 
-👯 A gopher.
+👯![emojipng com-5513561](https://user-images.githubusercontent.com/49899327/161464973-f13d97e5-0e39-4f14-94cf-e5fbc3c5d5bd.png)
+ A gopher.
 
 <!-- ⚡ Fun fact: Games
 -->
