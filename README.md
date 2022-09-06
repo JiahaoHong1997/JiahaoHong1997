@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 -->
 
 🤔 A graduate student at Fudan University.
-
-🔭 Working on computer vision.
-
-🌱 Learning web programming.
-
 👯 A gopher.
 
 <!-- ⚡ Fun fact: Games
